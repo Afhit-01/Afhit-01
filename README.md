@@ -43,8 +43,8 @@ Backend-first software engineer and Computer Science student at the University o
 
 ## GitHub stats
 
-![Afhit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Afhit-01&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Afhit-01&layout=compact&hide_border=true)
+![Afhit's GitHub stats](https://github-stats-extended.vercel.app/api?username=Afhit-01&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Afhit-01&layout=compact&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afhit-01&hide_border=true)
 
 ## Projects I'm building
