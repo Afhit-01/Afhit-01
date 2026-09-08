@@ -41,12 +41,6 @@ Backend-first software engineer and Computer Science student at the University o
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## GitHub stats
-
-![Afhit's GitHub stats](https://github-stats-extended.vercel.app/api?username=Afhit-01&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Afhit-01&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afhit-01&hide_border=true)
-
 ## Projects I'm building
 
 - **Up-NEPA**: a crowdsourced power outage tracking app for Nigeria (React/TypeScript).
