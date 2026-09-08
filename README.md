@@ -52,6 +52,10 @@ Backend-first software engineer and Computer Science student at the University o
 
 Deepening my backend fundamentals: API authentication, database design, and production-grade service architecture.
 
+## My Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Afhit-01/Afhit-01/output/github-contribution-grid-snake.svg)
+
 ## Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afhit-01)
